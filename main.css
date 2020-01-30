@@ -1,11 +1,13 @@
 body {
-    background-color: darkslategray;
+    background-image: url(images/home.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #343131;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-
-h1{
+    font-family: Impact;
+  }
+  
+  h1{
     color: white;
     font-size: 72;
-}
+  }
