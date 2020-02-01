@@ -16,16 +16,20 @@ body {
     font-size: 100px;
     text-shadow: 3px 4px #000000;
     margin-bottom: 0px;
-    
+    margin-top: 20px;
   }
   h2{
-    font-family: Impact;
+    font-family: Roboto;
     font-size: 54px;
     margin-top: 3px;
-    color: grey;
+    color: white;
     text-shadow: 2px 3px #000000;
     margin-left: 25px;
-
+  }
+  h3{
+      font-family: Roboto;
+      font-size: 24px;
+      font-weight: bold;
   }
   a{
     color:#343131;
@@ -45,15 +49,25 @@ body {
  
   a:hover{
     color: white;
+    text-shadow: 2px 2px black;
   }
   .homeButton{
       margin: 0px;
-      text-size: 18px;
+      font-size: 18px;
+      text-transform: uppercase;
+  }
+
+  .inText{
+      text-indent: 0px;
+      font-size: 18px;
+      margin: 0px;
   }
 
   section{
       background-color: rgba(50, 50, 50, 0.5);
-      width: 50%;
+      width: 60%;
+      padding: 2%;
+      margin: 2%;
       
 
   }
