@@ -68,6 +68,11 @@ body {
       width: 60%;
       padding: 2%;
       margin: 2%;
-      
+  }
 
+  table{
+      margin: 0px;
+      padding: 2px;
+      text-align: left;
+      background-color: rgba(50, 50, 50, 0.5);
   }
